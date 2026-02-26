@@ -1,6 +1,7 @@
 {
   "name": "autotube-frontend",
   "version": "1.0.0",
+  "homepage": "/autotube/",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",
