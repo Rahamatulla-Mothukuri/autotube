@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Sensitive credentials
+youtube_credentials.json
+youtube_token.json
+
+# Generated outputs
+backend/outputs/
+
+# Node
+node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env
+
+# OS
+.DS_Store
+*.log
